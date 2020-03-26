@@ -1,0 +1,28 @@
+img{
+    width: 200px;
+    height: 400px;
+    
+}
+p{
+    text-align: justify;
+}
+body{
+    font-size: 14px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: black;
+    font-family: 'Roboto Mono', monospace;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    background-color: mediumaquamarine;
+    font-family: 'Pacifico', cursive;
+}
+h2{
+    font-size: 25px;
+}
+
